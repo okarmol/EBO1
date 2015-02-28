@@ -1,0 +1,14 @@
+body
+{
+   background-color: red;
+}
+
+
+#circulo
+{
+  border: 1px solid green;
+  height: 100px;
+  width: 100%;
+  background: rgba(80, 133, 132, 0.71);
+  border-radius: 50%;
+}
